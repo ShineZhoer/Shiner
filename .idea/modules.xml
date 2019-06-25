@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PromotionSystem.iml" filepath="$PROJECT_DIR$/PromotionSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-api/promotion-api.iml" filepath="$PROJECT_DIR$/promotion-api/promotion-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-base/promotion-base.iml" filepath="$PROJECT_DIR$/promotion-base/promotion-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-channels/promotion-channels.iml" filepath="$PROJECT_DIR$/promotion-channels/promotion-channels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-dao/promotion-dao.iml" filepath="$PROJECT_DIR$/promotion-dao/promotion-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-model/promotion-model.iml" filepath="$PROJECT_DIR$/promotion-model/promotion-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-service/promotion-service.iml" filepath="$PROJECT_DIR$/promotion-service/promotion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promotion-utils/promotion-utils.iml" filepath="$PROJECT_DIR$/promotion-utils/promotion-utils.iml" />
+    </modules>
+  </component>
+</project>

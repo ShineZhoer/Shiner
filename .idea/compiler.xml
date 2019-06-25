@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="model" />
+        <module name="promiton-api" />
+        <module name="promotion-api" />
+        <module name="promotion-base" />
+        <module name="promotion-channels" />
+        <module name="promotion-dao" />
+        <module name="promotion-model" />
+        <module name="promotion-service" />
+        <module name="promotion-utils" />
+        <module name="WeChatPromotion" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="model" target="1.8" />
+      <module name="promiton-api" target="1.8" />
+      <module name="promotion-api" target="1.8" />
+      <module name="promotion-base" target="1.8" />
+      <module name="promotion-channels" target="1.8" />
+      <module name="promotion-dao" target="1.8" />
+      <module name="promotion-model" target="1.8" />
+      <module name="promotion-service" target="1.8" />
+      <module name="promotion-utils" target="1.8" />
+      <module name="PromotionSystem" target="1.5" />
+      <module name="WeChatPromotion" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
